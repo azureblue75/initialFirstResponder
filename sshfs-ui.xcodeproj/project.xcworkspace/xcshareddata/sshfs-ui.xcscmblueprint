@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3272BD8634AD7CB0437DE0E08B26087814449BFB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3272BD8634AD7CB0437DE0E08B26087814449BFB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0F7FBF18-E811-4B78-960F-570ACA978224",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3272BD8634AD7CB0437DE0E08B26087814449BFB" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "sshfs-ui",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "sshfs-ui.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/emiscience\/initialFirstResponder",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3272BD8634AD7CB0437DE0E08B26087814449BFB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/azureblue75\/initialFirstResponder",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3272BD8634AD7CB0437DE0E08B26087814449BFB"
+    }
+  ]
+}
